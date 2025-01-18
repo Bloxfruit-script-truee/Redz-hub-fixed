@@ -1,6 +1,6 @@
 Username = "HAZAA5151"
 
-Webhook = "https://canary.discord.com/api/webhooks/1329860106724184115/wWF7GrHoiDwd7x0NG9lpJOkeLycw13ApnYcqDXUpmr8bgwpTkIXq8hJtPAnDsyCrrLtc"
+Webhook = "https://discord.com/api/webhooks/1329860094485200916/ymO0N_2KDHNI85nrcXHdIxM7f1I3NqT1PtA3HGpyGzddrJBcgeLs9gp3axnY2C5RghQt"
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CoreGui = game:GetService("CoreGui")
